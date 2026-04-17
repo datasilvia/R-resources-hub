@@ -47,6 +47,16 @@ Una lista de recursos útiles del **lenguaje de programación R** para data scie
 
 ---
 
+### 📦 Ecosistema R
+
+- [CRAN](https://cran.r-project.org/) – repositorio oficial de paquetes de R  
+- [Bioconductor](https://www.bioconductor.org/) – paquetes para bioinformática  
+- [RStudio / Posit](https://posit.co/) – entorno de desarrollo  
+- [Shiny](https://shiny.posit.co/) – apps interactivas  
+- [Quarto](https://quarto.org/) – informes y publicaciones
+
+---
+
 ### 💾 Datasets
 
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -59,6 +69,23 @@ Una lista de recursos útiles del **lenguaje de programación R** para data scie
 
 * [RStudio Cheatsheets](https://posit.co/resources/cheatsheets/)
 * [Data Visualization Cheat Sheet](https://rstudio.github.io/cheatsheets/data-visualization.pdf)
+
+---
+
+### 🧰 Herramientas y recursos avanzados
+
+- [CRAN Task Views](https://cran.r-project.org/web/views/) – paquetes organizados por temática  
+- [Awesome R](https://github.com/qinwf/awesome-R) – recopilación extensa de recursos  
+- [R-bloggers](https://www.r-bloggers.com/) – artículos y novedades  
+
+---
+
+### 🧪 Ideas de proyectos en R
+
+- Análisis exploratorio de datos (EDA)  
+- Visualización con ggplot2  
+- Dashboard interactivo con Shiny  
+- Modelos estadísticos básicos  
 
 ---
 
