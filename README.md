@@ -2,6 +2,24 @@
 
 Una lista de recursos útiles del **lenguaje de programación R** para data science, estadística y análisis de datos.
 
+## 🚀 Empezar con R
+
+- 🧑‍💻 [Cómo programar en R sin instalar nada](docs/run-r-online.md)
+
+---
+
+## 🧱 Conceptos clave
+
+- 📦 [¿Qué es CRAN?](docs/que-es-cran.md)
+- 🧹 [¿Qué es tidyverse?](docs/que-es-tidyverse.md)
+- 🖥️ [Introducción a Shiny](docs/intro-a-shiny.md)
+
+---
+
+## 📦 Packages de R
+
+- 🧰 [Guía de packages de R](docs/packages.md)
+
 ---
 ## 🧭 Ruta recomendada
 
